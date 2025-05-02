@@ -1,0 +1,16 @@
+# 파이썬 캐시 파일
+*.pyc
+__pycache__/
+
+# 장고 DB
+db.sqlite3
+
+# 가상환경 폴더
+myenv/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
